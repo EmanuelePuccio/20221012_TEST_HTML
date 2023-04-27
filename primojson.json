@@ -1,0 +1,11 @@
+{
+  "div1": {
+    "id": "Div1",
+    "innerHTML": "primo"
+  },
+
+  "div2": {
+    "id": "Div2",
+    "innerHTML": "secondo"
+  }
+}
