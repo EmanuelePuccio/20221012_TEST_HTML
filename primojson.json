@@ -1,10 +1,10 @@
 {
-  "div1": {
+  "div": {
     "id": "Div1",
     "innerHTML": "primo"
   },
 
-  "div2": {
+  "div": {
     "id": "Div2",
     "innerHTML": "secondo"
   }
